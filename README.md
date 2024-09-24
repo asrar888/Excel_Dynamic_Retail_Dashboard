@@ -145,7 +145,7 @@ This dashboard is highly valuable for retail businesses to:
    - Drill down into specific KPIs like Sales, Profit, Quantity, and Orders.
 4. Load new data and the dashboard updates automatically.
    
-###Screenshot
+Screenshot
 ![image](https://github.com/user-attachments/assets/ca757738-4f2e-4f21-87af-3852b7b05462)
 
 
